@@ -1,2 +1,2 @@
-# Day-8
-W4B Day 8
+# github-practice
+W4B github-practice
